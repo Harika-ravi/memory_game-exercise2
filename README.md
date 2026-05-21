@@ -1,28 +1,27 @@
 # 🧠 Memory Match Flutter Game
 
 > **CS5450 Mobile Programming — Exercise 2**  
-> Lakehead University | Dr. Sabah Mohammed | Department of Computer Science  
-> **Student:** Harika-ravi | **Repository:** memory_game_CS5450
+> Lakehead University | Dr. Sabah Mohammed 
+> **Student:** Harika Ravi | **Repository:** memory_game_CS5450
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 **Memory Match** is a Flutter/Dart mobile application that implements a classic card-flipping memory game. The player flips cards two at a time to find matching emoji pairs. The game tracks moves, elapsed time, and awards a star rating upon completion.
 
 ### Key Features
-- 🃏 **20 cards** — 10 unique emoji pairs, shuffled every game
-- 🎨 **20 unique vibrant colours** — each card position gets its own colour
-- 🔄 **Smooth 3D flip animation** using `AnimationController` + `Matrix4.rotateY()`
-- ⏱ **Live timer** and **move counter** displayed in the header
-- ✅ **Match detection** — matched pairs stay face-up with green highlight
-- 🏆 **Win screen** with time, moves, and ⭐ star rating
-- 🔁 **Restart** with confirmation dialog
-- 📱 **Responsive** — works on Android, Windows Desktop, and Chrome Web
+- **20 cards** — 10 unique emoji pairs, shuffled every game
+- **Smooth 3D flip animation** using `AnimationController` + `Matrix4.rotateY()`
+- **Live timer** and **move counter** displayed in the header
+- **Match detection** — matched pairs stay face-up with green highlight
+- **Win screen** with time, moves, and ⭐ star rating
+- **Restart** with confirmation dialog
+- **Responsive** — works on Android, Windows Desktop, and Chrome Web
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 memory_game/
@@ -53,7 +52,7 @@ memory_game/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -67,7 +66,7 @@ memory_game/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 - [Flutter SDK 3.44.0+](https://flutter.dev/docs/get-started/install)
@@ -113,7 +112,7 @@ flutter run -d chrome
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Launch the app and tap **Play Now** on the home screen
 2. The game board shows **20 face-down cards** in a 4×5 grid
@@ -126,7 +125,7 @@ flutter run -d chrome
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```yaml
 dependencies:
@@ -144,54 +143,18 @@ dev_dependencies:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Windows Desktop
 
-| Home Screen | Game Board | Win Screen |
-|-------------|------------|------------|
-| ![Home](screenshots/win_home.png) | ![Game](screenshots/win_game.png) | ![Win](screenshots/win_win.png) |
+
 
 ### Android — Pixel 7 (API 34)
 
-| Home Screen | Game Board | Win Screen |
-|-------------|------------|------------|
-| ![Home](screenshots/android_home.png) | ![Game](screenshots/android_game.png) | ![Win](screenshots/android_win.png) |
 
----
 
-## ✅ Grading Checklist
-
-| Category | Requirement | Status |
-|----------|-------------|--------|
-| **Programming** | Flutter/Dart code used throughout | ✅ |
-| | Provider state management | ✅ |
-| | Proper OOP structure (models/screens/widgets) | ✅ |
-| | 3D flip animation | ✅ |
-| | Game logic: shuffle, match, mismatch delay | ✅ |
-| **Functionality** | Runs on Android Emulator (Pixel 7 API 34) | ✅ |
-| | Runs on Windows Desktop | ✅ |
-| | Card flipping works correctly | ✅ |
-| | Match detection works | ✅ |
-| | Timer & move counter live | ✅ |
-| | Win screen with star rating | ✅ |
-| | Restart with confirmation dialog | ✅ |
-| **App Design** | Dark themed home screen with gradient | ✅ |
-| | 20 unique card colours per position | ✅ |
-| | Responsive grid (mobile & desktop) | ✅ |
-| | Poppins Google Font throughout | ✅ |
-| **Submission** | README.pdf with screenshots | ✅ |
-| | GitHub public repository | ✅ |
-| | ZIP file submitted to D2L | ✅ |
-
----
-
-## 🔗 Links
+##  Links
 
 - **GitHub Repository:** https://github.com/Harika-ravi/memory_game_CS5450
-- **Course:** CS5450 Mobile Programming — Lakehead University
-- **Instructor:** Dr. Sabah Mohammed
 
----
 
-*CS5450 Mobile Programming • Exercise 2 • Lakehead University*
