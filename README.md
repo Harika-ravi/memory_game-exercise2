@@ -146,15 +146,22 @@ dev_dependencies:
 ## Screenshots
 
 ### Windows Desktop
-
+<img width="1578" height="888" alt="Screenshot 2026-05-18 213454" src="https://github.com/user-attachments/assets/09366f4b-fdfd-433b-b979-2a769c243b64" />
+<img width="1919" height="1019" alt="Screenshot 2026-05-18 213804" src="https://github.com/user-attachments/assets/3630a35b-13c2-4b84-8f68-b81f5b810026" />
 
 
 ### Android — Pixel 7 (API 34)
+<img width="1256" height="951" alt="Screenshot 2026-05-18 214906" src="https://github.com/user-attachments/assets/314cebdf-a25f-4315-8abd-5242611f3a12" />
+<img width="1245" height="706" alt="Screenshot 2026-05-18 214940" src="https://github.com/user-attachments/assets/d7b52704-3ca4-46a1-94a9-7816f6e3d060" />
+<img width="1247" height="884" alt="Screenshot 2026-05-18 214958" src="https://github.com/user-attachments/assets/78645d7a-f491-44ab-a52f-ae61288c2803" />
+<img width="1241" height="887" alt="Screenshot 2026-05-20 202944" src="https://github.com/user-attachments/assets/2c87fd87-6c83-4bd9-a125-33d95f10ea25" />
+<img width="1244" height="897" alt="Screenshot 2026-05-20 202959" src="https://github.com/user-attachments/assets/5db708c6-1aa4-42f8-a1f9-ecbb7ddf8b3c" />
+<img width="1236" height="886" alt="Screenshot 2026-05-18 215714" src="https://github.com/user-attachments/assets/18ecb6f6-a7f2-4159-af6b-1095631f876b" />
 
 
 
 ##  Links
 
-- **GitHub Repository:** https://github.com/Harika-ravi/memory_game_CS5450
+- **GitHub Repository:** [https://github.com/Harika-ravi/memory_game_CS5450](https://github.com/Harika-ravi/memory_game-exercise2.git)
 
 
